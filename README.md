@@ -1,3 +1,13 @@
+The main goal of this project is create a simple app that contains each robot with the description and the user can search for each one on the search bar.
+
+Built With
+HTML
+CSS
+JavaScript
+npm
+React
+API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
