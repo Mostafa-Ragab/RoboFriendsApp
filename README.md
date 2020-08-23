@@ -1,5 +1,7 @@
 The main goal of this project is create a simple app that contains each robot with the description and the user can search for each one on the search bar.
 
+This is the Robofriends React app that has been updated to include Redux, in addition to other performance optimizations.
+
 Built With
 HTML
 CSS
